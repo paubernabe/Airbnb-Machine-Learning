@@ -12,8 +12,8 @@ En aquest readme es dona una informació breu de que es troba a cada Notebook en
 ### Predicció del preu 
 
 - *Model Baseline*: **3-ModelBaselinePreu.ipynb** 
-- *Feature engineering i selecció de característiques*: **4-Feature egineering preu.ipynb**
-- *Mineria de text*: **6-NLP-TFIDF-preu.ipynb**
+- *Feature engineering i selecció de característiques*: **5-Feature egineering preu.ipynb**
+- *Mineria de text*: **7-NLP-TFIDF-preu.ipynb**
 - *Model final*: **10-ModelFinalPreu.ipynb**
 
 ### Anàlisi de sentiment
