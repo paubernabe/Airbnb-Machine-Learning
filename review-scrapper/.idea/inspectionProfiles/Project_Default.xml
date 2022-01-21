@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="9">
+            <item index="0" class="java.lang.String" itemvalue="slidingwindow" />
+            <item index="1" class="java.lang.String" itemvalue="fire" />
+            <item index="2" class="java.lang.String" itemvalue="dill" />
+            <item index="3" class="java.lang.String" itemvalue="tensorpack" />
+            <item index="4" class="java.lang.String" itemvalue="pycocotools" />
+            <item index="5" class="java.lang.String" itemvalue="argparse" />
+            <item index="6" class="java.lang.String" itemvalue="python" />
+            <item index="7" class="java.lang.String" itemvalue="Flask-Cors" />
+            <item index="8" class="java.lang.String" itemvalue="Flask-SQLAlchemy" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
