@@ -25,3 +25,7 @@ En aquest readme es dona una informació breu de que es troba a cada Notebook en
 - *Script d'automatizació de la recol·lecció de dades mitjançant web scrapping*: **review-scrapper** 
 
 Per executar el script del review-scrapper, cal tenir la versió 84 de Google Chrome. Es recomana utilitzar l'IDE PyCharm per arrancar el programa.
+
+### Dades
+
+Per a les dades s'utilitza un repositori de Github: https://github.com/paubernabe/data
